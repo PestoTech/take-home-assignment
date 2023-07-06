@@ -1,1 +1,3 @@
-# take-home-assignment
+# Projects 
+
+- [Snake Game](snakeGame.md)
